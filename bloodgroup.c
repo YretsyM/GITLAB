@@ -1,4 +1,4 @@
-#include <stdio.h>
+ข้อต#include <stdio.h>
 #include <string.h>
 void main()
 { char Name[40], G[5], answer[10];
@@ -44,5 +44,5 @@ void main()
     printf("\nYou Need continue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("Goodbye !!\n");
+  printf("Goodbye ~~\n");
 }
